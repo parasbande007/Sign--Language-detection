@@ -1,1 +1,1 @@
-# Sign--Language-detection
+# Gesture Recognition for Human-Computer Interaction
